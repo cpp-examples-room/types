@@ -71,6 +71,8 @@
 
 - lvalue_reference_type [](std::is_lvalue_reference)
     - object_type &
+    //- array_type &
+    //- function_type &
 
 - rvalue_reference_type [](std::is_rvalue_reference)
     - object_type &&
